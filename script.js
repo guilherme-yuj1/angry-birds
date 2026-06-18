@@ -10,7 +10,7 @@ const SLINGSHOT_Y = GAME_HEIGHT - 100;
 const PIG_X = GAME_WIDTH - 120;
 const PIG_Y = GAME_HEIGHT - 150;
 const PIG_RADIUS = 18;
-const GRAVITY = 0.5;
+const GRAVITY = 0.3;
 const FRICTION = 0.98;
 const LAUNCH_POWER_MULTIPLIER = 0.15;
 
